@@ -23,8 +23,6 @@ Sharing knowledge is a big part of what I do. Check out some of my published art
 - [overview of solana dapp](https://dev.to/shivamsspirit/the-solana-dapp-overview-and-walkthrough-2anh)
 - [transfer spl tokens](https://dev.to/shivamsspirit/how-to-transfer-solana-tokens-with-solidity-355c)
 - [build a flip program using solana cpi](https://dev.to/shivamsspirit/seamless-program-composition-calling-between-programs-via-solana-cross-program-invocation-5566)
-- [mint fungible tokens](https://dev.to/shivamsspirit/minting-fungible-tokens-in-solana-using-solidity-solang-programming-languagepart-2-4lbc)
-- [Evm to solana](https://dev.to/shivamsspirit/minting-fungible-tokens-in-solana-using-solidity-solang-programming-language-50i6)
 - [solana-anchor-vs-native-guide](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor)  
 - [NFT Staking Tutorial](https://shivamsspirit.hashnode.dev/nft-staking-tutorial)    
 - [Stake Account Version Unlocking Enhanced Features on Solana](https://shivamspirit.hashnode.dev/the-all-new-stake-account-version-unlocking-enhanced-features-on-solana)  
