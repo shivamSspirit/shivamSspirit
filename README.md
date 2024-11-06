@@ -13,6 +13,7 @@ Over the past few years, I’ve transitioned from building Reactjs-based applica
 I've made meaningful code contributions to various Solana-based repositories, including:
 
 - [Web3 Examples](https://github.com/solana-developers/web3-examples/pull/4)   
+- [AMM Example](https://github.com/solana-developers/program-examples/commit/dd5611d76507f15b9a977f30409e2bc6486879da)
 - [Solana Cookbook](https://github.com/solana-developers/web3-examples/pull/8)  
 - [Solana Program Examples](https://github.com/solana-developers/solana-cookbook/pull/531)  
 - [Solana developer content](https://github.com/solana-foundation/developer-content/pull/309)  
