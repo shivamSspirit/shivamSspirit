@@ -37,7 +37,7 @@ Sharing knowledge is a big part of what I do. Check out some of my published art
 
 **Tech Stack**: Solana Blockchain, Solidity, Solang, JavaScript, MDX, Nextjs, Reactjs
 
-## [SolQuest](https://solquest.tech/)
+## [SolQuest](https://solana-quest-git-main-shivamsoni00s-projects.vercel.app/)
 
 **Description**: SolQuest is a decentralized learning platform built on Solana, designed to educate developers through interactive, quest-based learning. The platform mimics the concept of Speedrun Ethereum, but focuses on the Solana blockchain, offering step-by-step challenges (quests) that guide developers through building real-world applications on Solana
 
