@@ -21,6 +21,7 @@ I've made meaningful code contributions to various Solana-based repositories, in
 ## ✍️ Writing and Tutorials:  
 Sharing knowledge is a big part of what I do. Check out some of my published articles:  
 
+- [Quick spl token mint and transfer guide](https://clean-traffic-f59.notion.site/Introducing-Gill-The-Modern-Solana-JavaScript-client-library-1ab54b872b31801eb3acddc81ace9f98)
 - [EVM vs SVM Guide](https://clean-traffic-f59.notion.site/Understanding-EVM-vs-SVM-A-Developer-s-Guide-17554b872b318090b970c201ab7c9b6e)
 - [solana-anchor-vs-native-guide](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor)
 - [solana-gulf-stream](https://shivamsspirit.hashnode.dev/solana-gulf-stream-a-primer)
