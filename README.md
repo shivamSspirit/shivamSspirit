@@ -63,6 +63,7 @@ Sharing knowledge is a big part of what I do. Check out some of my published art
 - GitHub:  [shivamSspirit](https://github.com/shivamSspirit/)
 - Twitter: [shivamSspirit](https://x.com/ShivamSspirit)
 - Telegram: @shivamSspirit
+- Solana Stake Exchange: [shivamSspirit](https://solana.stackexchange.com/users/4927/shivam-soni)
 
 
 
