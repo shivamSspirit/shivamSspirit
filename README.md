@@ -25,6 +25,7 @@ Sharing knowledge is a big part of what I do. Check out some of my published art
 - [EVM vs SVM Guide](https://clean-traffic-f59.notion.site/Understanding-EVM-vs-SVM-A-Developer-s-Guide-17554b872b318090b970c201ab7c9b6e)
 - [solana-anchor-vs-native-guide](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor)
 - [solana-gulf-stream](https://shivamsspirit.hashnode.dev/solana-gulf-stream-a-primer)
+- [Soon 101: Overview of building program on soon](https://dev.to/shivamsspirit/soon-101-overview-of-building-program-on-soon-19o1)
 - [overview of solana dapp](https://dev.to/shivamsspirit/the-solana-dapp-overview-and-walkthrough-2anh)
 - [transfer spl tokens](https://dev.to/shivamsspirit/how-to-transfer-solana-tokens-with-solidity-355c)
 - [build a flip program using solana cpi](https://dev.to/shivamsspirit/seamless-program-composition-calling-between-programs-via-solana-cross-program-invocation-5566)
