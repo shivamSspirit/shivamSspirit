@@ -21,6 +21,7 @@ I've made meaningful code contributions to various Solana-based repositories, in
 ## ✍️ Writing and Tutorials:  
 Sharing knowledge is a big part of what I do. Check out some of my published articles:  
 
+- [Deploy solana dApp to sonic SVM](https://clean-traffic-f59.notion.site/Modifying-a-Solana-dApp-to-Support-Sonic-SVM-Greetings-1c054b872b3180368990c8e801479e7e)
 - [Quick spl token mint and transfer guide](https://dev.to/shivamsspirit/introducing-gill-the-modern-solana-javascript-client-library-325l)
 - [EVM vs SVM Guide](https://clean-traffic-f59.notion.site/Understanding-EVM-vs-SVM-A-Developer-s-Guide-17554b872b318090b970c201ab7c9b6e)
 - [solana-anchor-vs-native-guide](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor)
