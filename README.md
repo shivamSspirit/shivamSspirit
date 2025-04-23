@@ -21,15 +21,16 @@ I've made meaningful code contributions to various Solana-based repositories, in
 ## ✍️ Writing and Tutorials:  
 Sharing knowledge is a big part of what I do. Check out some of my published articles:  
 
-- [Deploy solana dApp to sonic SVM](https://clean-traffic-f59.notion.site/Modifying-a-Solana-dApp-to-Support-Sonic-SVM-Greetings-1c054b872b3180368990c8e801479e7e)
+- [SIMD-223 Case Study](https://clean-traffic-f59.notion.site/Case-Study-Understanding-and-Evaluating-SIMD-223-1d954b872b318033aaf5d07b00f16bb3)
+- [Deploy solana dApp to Sonic SVM](https://clean-traffic-f59.notion.site/Modifying-a-Solana-dApp-to-Support-Sonic-SVM-Greetings-1c054b872b3180368990c8e801479e7e)
 - [Quick spl token mint and transfer guide](https://dev.to/shivamsspirit/introducing-gill-the-modern-solana-javascript-client-library-325l)
 - [EVM vs SVM Guide](https://clean-traffic-f59.notion.site/Understanding-EVM-vs-SVM-A-Developer-s-Guide-17554b872b318090b970c201ab7c9b6e)
 - [solana-anchor-vs-native-guide](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor)
 - [solana-gulf-stream](https://shivamsspirit.hashnode.dev/solana-gulf-stream-a-primer)
 - [Soon 101: Overview of building program on soon](https://dev.to/shivamsspirit/soon-101-overview-of-building-program-on-soon-19o1)
-- [overview of solana dapp](https://dev.to/shivamsspirit/the-solana-dapp-overview-and-walkthrough-2anh)
+- [overview of Solana Dapp](https://dev.to/shivamsspirit/the-solana-dapp-overview-and-walkthrough-2anh)
 - [transfer spl tokens](https://dev.to/shivamsspirit/how-to-transfer-solana-tokens-with-solidity-355c)
-- [build a flip program using solana cpi](https://dev.to/shivamsspirit/seamless-program-composition-calling-between-programs-via-solana-cross-program-invocation-5566)
+- [Build a flip program using Solana CPI](https://dev.to/shivamsspirit/seamless-program-composition-calling-between-programs-via-solana-cross-program-invocation-5566)
 
 ## 🚀 Featured Projects
 
