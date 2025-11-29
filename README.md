@@ -8,7 +8,7 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ## Currently Building
 
-**FlexIt / FlexStream** – Zora-like social-fi launchpad on Solana, enabling creators and communities to mint, trade, and monetize.
+**FlexIt / FlexStream** – Zora-like social-fi launchpad on Solana, enabling creators and communities to mint, trade, and monetize. claim beta spot here: [Flex](https://www.flexitsol.fun/)
 
 ---
 
