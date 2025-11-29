@@ -20,12 +20,6 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ---
 
-## Pump.fun Pioneer & Token Launcher
-
-Pump.fun live streamer & token launcher. Expertise in token launches, community building, and viral growth strategies.
-
----
-
 
 ## Featured Projects
 
@@ -68,7 +62,7 @@ More on [dev.to](https://dev.to/shivamsspirit) and [Hashnode](https://shivamsspi
 - **Twitter/X**: [@ShivamSspirit](https://x.com/ShivamSspirit)
 - **GitHub**: [shivamSspirit](https://github.com/shivamSspirit)
 - **Email**: Reach out for DevRel, hiring, or collaboration
-- **Solana StackExchange**: Active contributor
+- **Solana StackExchange**: Occasionally contributor
 
 ---
 
