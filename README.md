@@ -1,4 +1,4 @@
-# Hi, I'm Shivam 👋
+# Hi, I'm Shivam
 
 **Solana Developer & Product Builder** | Building social-fi infrastructure on Solana
 
@@ -6,13 +6,13 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 **FlexIt / FlexStream** – Zora-like social-fi launchpad on Solana, enabling creators and communities to mint, trade, and monetize.
 
 ---
 
-## 🛠️ Core Skills
+## Core Skills
 
 - **Blockchain**: Solana (Rust/Anchor, Solidity via Solang), SPL tokens, smart contracts
 - **Web3 Dev**: TypeScript, Next.js, Web3.js, Jupiter API, DeFi protocol integration
@@ -20,7 +20,7 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ---
 
-## 📚 Featured Projects
+## Featured Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
@@ -31,7 +31,7 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ---
 
-## 🔗 Open Source Contributions
+## Open Source Contributions
 
 Meaningful contributions to Solana ecosystem projects:
 
@@ -42,7 +42,7 @@ Meaningful contributions to Solana ecosystem projects:
 
 ---
 
-## ✍️ Featured Writing
+## Featured Writing
 
 Education is core to what I do. Key articles:
 
@@ -56,7 +56,7 @@ More on [dev.to](https://dev.to/shivamsspirit) and [Hashnode](https://shivamsspi
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 - **Twitter/X**: [@ShivamSspirit](https://x.com/ShivamSspirit)
 - **GitHub**: [shivamSspirit](https://github.com/shivamSspirit)
@@ -65,4 +65,4 @@ More on [dev.to](https://dev.to/shivamsspirit) and [Hashnode](https://shivamsspi
 
 ---
 
-*Building in public. Always learning, always shipping.*
+Building in public. Always learning, always shipping.
