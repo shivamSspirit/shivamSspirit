@@ -22,12 +22,8 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ## Pump.fun Pioneer & Token Launcher
 
-As a pioneer in live streaming on Pump.fun, I've built expertise in:
+Pump.fun live streamer & token launcher. Expertise in token launches, community building, and viral growth strategies.
 
-- **Live Token Launches**: Streamed and executed successful token launches, understanding bonding curves, community dynamics, and market mechanics
-- **Creator Economy**: Direct experience monetizing content and building communities around token launches
-- **Trading Narratives**: Deep involvement in meme coin culture and viral token growth strategies
-- **Community Building**: Fostered engaged communities through live streaming and token ecosystem participation
 ---
 
 
