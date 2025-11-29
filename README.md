@@ -1,4 +1,4 @@
-# Hi, I'm Zitoshi
+# ZM, I'm Zitoshi
 
 **Solana Developer & Product Builder** | Building social-fi infrastructure on Solana
 
