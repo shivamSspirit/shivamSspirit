@@ -1,4 +1,4 @@
-# Hi, I'm Shivam
+# Hi, I'm Zitoshi
 
 **Solana Developer & Product Builder** | Building social-fi infrastructure on Solana
 
