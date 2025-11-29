@@ -49,9 +49,9 @@ Education is core to what I do. Key articles:
 
 - [SIMD-223 Case Study](https://clean-traffic-f59.notion.site/Case-Study-Understanding-and-Evaluating-SIMD-223-1d954b872b318033aaf5d07b00f16bb3) – Deep dive into Solana protocol improvements
 - [EVM vs SVM Guide](https://clean-traffic-f59.notion.site/Understanding-EVM-vs-SVM-A-Developer-s-Guide-17554b872b318090b970c201ab7c9b6e) – For developers transitioning from Ethereum
-- [Gulf Stream Primer](https://shivamsspirit.hashnode.dev/solana-gulf-stream-a-primer) – Solana's mempool innovation
+- [Gulf Stream Primer](https://shivamsspirit.hashnode.dev/solana-gulf-stream-a-primer) – Solana's mempool-less innovation
 - [Deploy to Sonic SVM](https://clean-traffic-f59.notion.site/Modifying-a-Solana-dApp-to-Support-Sonic-SVM-Greetings-1c054b872b3180368990c8e801479e7e) – Multi-SVM dApp guide
-- [Anchor vs Native](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor) – When to use each framework
+- [Anchor vs Native](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor) – How to use each framework
 
 More on [dev.to](https://dev.to/shivamsspirit) and [Hashnode](https://shivamsspirit.hashnode.dev/).
 
