@@ -1,6 +1,6 @@
 # ZM, I'm Zitoshi
 
-**Solana Developer & Product Builder** | Building social-fi infrastructure on Solana
+**Solana Developer & Product Builder** | Building privacy-first social-fi infrastructure on Solana
 
 I'm transitioning from React-based web development into the Solana ecosystem. Currently focused on creator economy tooling, token launchpads, and developer education. Strong background in open-source contributions, technical writing, and DevRel.
 
