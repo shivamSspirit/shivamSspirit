@@ -8,7 +8,7 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ## Currently Building
 
-**FlexIt / FlexIt** – A Privacy-First, Verified Creator Platform. claim beta spot here: [Flex](https://www.flexitsol.fun/)
+**Flex / FlexIt** – A Privacy-First, Verified Creator Platform. claim beta spot here: [Flex](https://www.flexitsol.fun/)
 
 ---
 
