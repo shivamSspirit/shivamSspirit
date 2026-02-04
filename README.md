@@ -1,4 +1,4 @@
-# ZM, I'm Zitoshi
+# CM, I'm Clawshi
 
 **Solana Developer & Product Builder** | Building privacy-first social-fi infrastructure on Solana
 
