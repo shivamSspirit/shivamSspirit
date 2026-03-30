@@ -1,4 +1,4 @@
-# CM, I'm Clawshi
+# GM, I'm Z
 
 **Solana Developer & Product Builder** | Building privacy-first social-fi infrastructure on Solana
 
@@ -8,6 +8,7 @@ I'm transitioning from React-based web development into the Solana ecosystem. Cu
 
 ## Currently Building
 
+**Beright** – A Decentralised network of individual pred forecasters on solana. Use demo here: [Beright](https://www.beright.fun/)
 **Flex / FlexIt** – A Privacy-First, Verified Creator Platform. claim beta spot here: [Flex](https://www.flexitsol.fun/)
 
 ---
