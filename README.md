@@ -15,8 +15,8 @@ I started within the Superteam community, working across technical writing and d
 
 ## Core Skills
 
-- **Blockchain**: Solana (Rust/Anchor, Solidity via Solang), SPL tokens, smart contracts
-- **Web3 Dev**: TypeScript, Next.js, Web3.js, Jupiter API, DeFi protocol integration
+- **Blockchain**: Solana (Rust/Anchor, Solidity via Solang), SPL tokens, solana programs
+- **Web3 Dev**: Community, Technical writing, Solana Dev
 - **DevRel**: Technical writing, tutorials, open-source contributions, community engagement
 
 ---
@@ -26,10 +26,10 @@ I started within the Superteam community, working across technical writing and d
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Solidity on Solana** | Crash course on building with Solang-Solidity. Tutorials + code examples. | [Repo](https://github.com/shivamSspirit/Solang-Series) · [Live](https://solang-series-git-main-shivamsoni00s-projects.vercel.app) |
 | **SolQuest** | First decentralized learning platform on Solana. Interactive quests for devs. | [Repo](https://github.com/shivamSspirit/solana-quest) |
+| **Solidity on Solana** | Crash course on building with Solang-Solidity. Tutorials + code examples. | [Repo](https://github.com/shivamSspirit/Solang-Series) · [Live](https://solang-series-git-main-shivamsoni00s-projects.vercel.app) |
 | **SPL Token dApp** | Complete guide to SPL token creation, minting, and transfers. | [Guide](https://dev.to/shivamsspirit/introducing-gill-the-modern-solana-javascript-client-library-325l) |
-| **FlexWaitlist** | Waitlist landing page for FlexIt launchpad. Built with Next.js + Tailwind. | [Repo](https://github.com/shivamSspirit/flexwaitlist) |
+
 
 ---
 
@@ -40,7 +40,6 @@ Meaningful contributions to Solana ecosystem projects:
 - [Web3 Examples](https://github.com/solana-developers/web3-examples/pull/4) – Official Solana Developers repo
 - [Solana Program Examples](https://github.com/solana-developers/program-examples/commit/dd5611d76507f15b9a977f30409e2bc6486879da) – AMM & DeFi examples
 - [Solana Cookbook](https://github.com/solana-developers/solana-cookbook/pull/531) – Developer docs
-- [Developer Content](https://github.com/solana-foundation/developer-content/pull/309) – Education & guides
 
 ---
 
@@ -54,7 +53,7 @@ Education is core to what I do. Key articles:
 - [Deploy to Sonic SVM](https://clean-traffic-f59.notion.site/Modifying-a-Solana-dApp-to-Support-Sonic-SVM-Greetings-1c054b872b3180368990c8e801479e7e) – Multi-SVM dApp guide
 - [Anchor vs Native](https://github.com/solana-based-quests/Solana-on-chain-programs-native-vs-anchor) – How to use each framework
 
-More on [dev.to](https://dev.to/shivamsspirit) and [Hashnode](https://shivamsspirit.hashnode.dev/).
+More on [dev.to](https://dev.to/shivamsspirit).
 
 ---
 
