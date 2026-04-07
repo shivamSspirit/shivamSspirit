@@ -2,7 +2,7 @@
 
 Solana Developer & Product Builder
 
-I'm transitioning from React-based web development into the Solana ecosystem. Currently focused on creator economy tooling, token launchpads, and developer education. Strong background in open-source contributions, technical writing, and DevRel.
+I started in community, technical writing, and developer education, and have now transitioned into building products as a founder in the Solana ecosystem. Currently focused on creator economy, token launchpads, and on-chain innovation.
 
 ---
 
