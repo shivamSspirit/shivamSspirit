@@ -2,7 +2,7 @@
 
 Solana Developer & Product Builder
 
-I started in community, technical writing, and developer education, and have now transitioned into building products as a founder in the Solana ecosystem. Currently focused on creator economy, token launchpads, and on-chain innovation.
+I started in the Superteam India community, working across technical writing and developer education, and have since transitioned into building products as a founder in the Solana ecosystem. Now focused on the creator economy, token infrastructure, ai-agents and on-chain innovation.
 
 ---
 
