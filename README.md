@@ -4,7 +4,7 @@ Solana Developer & Product Builder
 
 I started within the Superteam community, working across technical writing and developer education, and have since transitioned into building products as a founder in the Solana ecosystem. Now focused on the creator economy, ai-tech and on-chain innovation.
 
-Current state of my github profile: My all Projects is EDUCATIONAL RESEARCH PROJECT — NOT PRODUCTION READY. NOT AUDITED. Do NOT use with real funds.
+Current state of trenches: My all Projects is EDUCATIONAL RESEARCH PROJECT — NOT PRODUCTION READY. NOT AUDITED. Do NOT use with real funds.
 
 ---
 
