@@ -11,8 +11,7 @@ Current state: A few of my projects are educational research projects. Please no
 ## Currently Building  
 
 **Beright** – A Decentralised network of individual pred forecasters on solana. Claim early spot and Use demo here: [Beright](https://www.beright.fun/)  
-**Flex / FlexIt** – A Privacy-First, Verified Creator Platform. claim beta spot here: [Flex](https://www.flexitsol.fun/)
-(where market maker(degens(starting with forecasters) can flex their life). Use demo here: [Flex](https://flexstream-gamma.vercel.app/)
+**Flex / FlexIt** – A Privacy-First, Verified Creator Platform. claim beta spot here: [Flex](https://www.flexitsol.fun/) Use demo here: [Flex](https://flexstream-gamma.vercel.app/)
 
 ---
 
