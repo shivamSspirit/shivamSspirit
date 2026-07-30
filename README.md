@@ -28,7 +28,7 @@ Current state: A few of my projects are educational research projects. Please no
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **SolQuest** | First decentralized learning platform on Solana. Interactive quests for devs. |  |
+| **SolQuest** | First decentralized learning platform on Solana. Interactive quests for devs. | [org](https://github.com/solana-based-quests) |
 | **Solidity on Solana** | Crash course on building with Solang-Solidity. Tutorials + code examples. | [Repo](https://github.com/shivamSspirit/Solang-Series) · [Live](https://solang-series-git-main-shivamsoni00s-projects.vercel.app) |
 | **SPL Token dApp** | Complete guide to SPL token creation, minting, and transfers. | [Guide](https://dev.to/shivamsspirit/introducing-gill-the-modern-solana-javascript-client-library-325l) |
 
