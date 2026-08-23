@@ -1,6 +1,6 @@
 # GM, I'm shivam 
 
-Solana Developer & Product Builder & AI-NATIVE WORKER
+Developer & Product Builder
 
 I started within the Superteam community, working across technical writing and developer education, and have since transitioned into building products as a founder in the Solana ecosystem. Now focused on the creator economy, ai-tech and on-chain innovation.
 
