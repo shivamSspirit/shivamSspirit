@@ -2,7 +2,7 @@
 
 Developer & Product Builder
 
-I started within the Superteam community, working across technical writing and developer education, and have since transitioned into building products as a founder in the Solana ecosystem. Now focused on the creator economy, ai-tech and on-chain innovation.
+I involved within the Superteam community, working across technical writing and developer education, and have since transitioned into building products as a founder in the Solana ecosystem. Now focused on the creator economy, ai-tech and on-chain innovation.
 
 Current state: A few of my projects are educational research projects. Please note that they are not audited (DYOR).
 
