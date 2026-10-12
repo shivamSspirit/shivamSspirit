@@ -8,22 +8,6 @@ Current state: A few of my projects are educational research projects. Please no
 
 ---
 
-## Current Builds  
-
-**Beright** – A Decentralised network of individual pred forecasters on solana. Demo here: [Beright](https://www.beright.fun/)  
-**Flex / FlexIt** – Verified Creator Platform. showcase here: [Flex](https://github.com/shivamSspirit/flexstream)
-
----
-
-## Core Skills
-
-- **Blockchain**: Solana (Rust/Anchor, Solidity via Solang), SPL tokens, solana programs
-- **Web3 Dev**: Community, Technical writing, Solana Dev
-- **DevRel**: Technical writing, tutorials, open-source contributions, community engagement
-
----
-
-
 ## Featured Projects
 
 | Project | Description | Links |
@@ -32,6 +16,13 @@ Current state: A few of my projects are educational research projects. Please no
 | **Solidity on Solana** | Crash course on building with Solang-Solidity. Tutorials + code examples. | [Repo](https://github.com/shivamSspirit/Solang-Series) · [Live](https://solang-series-git-main-shivamsoni00s-projects.vercel.app) |
 | **SPL Token dApp** | Complete guide to SPL token creation, minting, and transfers. | [Guide](https://dev.to/shivamsspirit/introducing-gill-the-modern-solana-javascript-client-library-325l) |
 
+---
+
+## Core Skills
+
+- **Blockchain**: Solana (Rust/Anchor, Solidity via Solang), SPL tokens, solana programs
+- **Web3 Dev**: Community, Technical writing, Solana Dev
+- **DevRel**: Technical writing, tutorials, open-source contributions, community engagement
 
 ---
 
