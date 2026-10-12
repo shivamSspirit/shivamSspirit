@@ -8,9 +8,9 @@ Current state: A few of my projects are educational research projects. Please no
 
 ---
 
-## Currently Building  
+## Current Builds  
 
-**Beright** – A Decentralised network of individual pred forecasters on solana. Claim early spot and Use demo here: [Beright](https://www.beright.fun/)  
+**Beright** – A Decentralised network of individual pred forecasters on solana. Demo here: [Beright](https://www.beright.fun/)  
 **Flex / FlexIt** – Verified Creator Platform. showcase here: [Flex](https://github.com/shivamSspirit/flexstream)
 
 ---
